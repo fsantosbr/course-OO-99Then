@@ -54,6 +54,7 @@ public class Exc118 {
 		
 		System.out.println();
 		System.out.println(order);
+		System.out.println();
 		
 		sc.close();
 	}
